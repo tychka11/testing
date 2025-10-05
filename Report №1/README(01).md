@@ -26,7 +26,7 @@
 
     5. Результат запиту до AI "Твоя перша програма"
 
-* ![alt text](./photo2.jpg) "Завдання у Notebook :notebook:"
+* ![alt text](./photo2.jpg "Завдання у Notebook :notebook:")
 
 
 ---

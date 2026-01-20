@@ -17,11 +17,14 @@ testing/
 │   ├── main.py
 │   └── test_filter.py
 │
-└── README.md
+└── README.md 
+```
 
 
 ## Запускємо тести
+
   ```bash
-  pytest ```
+  pytest
+  ```
 - результат 
 ![](1.jpg)
